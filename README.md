@@ -25,16 +25,16 @@ Em equipe, desenvolvi um sistema robusto em linguagem C para controle de estoque
 ## 🚀 Habilidades
 
 - **Linguagens de Programação:** HTML, CSS, JavaScript, C
-- **Desenvolvimento Front-End:** React.js, Vue.js
-- **Banco de Dados:** MySQL, MongoDB
-- **Controle de Versão:** Git, GitHub
+- **Desenvolvimento Front-End:** 
+- **Banco de Dados:** 
+- **Controle de Versão:** GitHub
 
 ---
 
 ## 📚 Educação
 
 **Ciência da Computação | PUC Minas**  
-*Período: [Ano de Início] - Presente*
+*Período: 2024 - Presente*
 
 Durante meu curso, tenho adquirido conhecimento sólido em algoritmos, estruturas de dados e paradigmas de programação. Estou sempre buscando aprender e aplicar novas tecnologias para melhorar minhas habilidades técnicas.
 
@@ -43,8 +43,7 @@ Durante meu curso, tenho adquirido conhecimento sólido em algoritmos, estrutura
 ## 🌐 Redes Sociais
 
 - [LinkedIn](https://www.linkedin.com/in/seunome)
-- [Twitter](https://twitter.com/seunome)
-
+- 
 ---
 
 ## 💡 Interesses
