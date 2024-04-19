@@ -1,7 +1,7 @@
 -----
 
 <div>
-<img align="center" alt="Header" src="https://github.com/rafa-generoso/rafa-generoso/blob/main/img/headertech.jpg?raw=true"/>
+<img align="center" alt="Header" src="https://github.com/rafa-generoso/rafa-generoso/blob/main/img/banner.JPG?raw=true"/>
 </div>
 
 -----
