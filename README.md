@@ -12,19 +12,19 @@
  <td align="center" colspan="11"></td>
 </tr> 
 <tr>
-<td><a href="" target="_blank"><img src="https://github.com/rafa-generoso/rafa-generoso/blob/main/img/github2.png?raw=true" width="50px" height="50px"/></a>
+<td><a href="" target="_blank"><img src="https://github.com/rafa-generoso/rafa-generoso/blob/main/img/github.png?raw=true" width="50px" height="50px"/></a>
 </td>
 <td><a href="" target="_blank"><img src="https://github.com/rafa-generoso/rafa-generoso/blob/main/img/gmail.png?raw=true" width="50px" height="50px"/></a>
 </td>
-<td><a href="" target="_blank"><img src="https://github.com/rafa-generoso/rafa-generoso/blob/main/img/wpp2.png?raw=true" width="50px" height="50px"/></a>
+<td><a href="" target="_blank"><img src="https://github.com/rafa-generoso/rafa-generoso/blob/main/img/wpp.png?raw=true" width="50px" height="50px"/></a>
 </td>
-<td><a href="" target="_blank"><img src="https://github.com/rafa-generoso/rafa-generoso/blob/main/img/insta2.png?raw=true" width="50px" height="50px"/></a>
+<td><a href="" target="_blank"><img src="https://github.com/rafa-generoso/rafa-generoso/blob/main/img/insta.png?raw=true" width="50px" height="50px"/></a>
 </td>
-<td><a href="" target="_blank"><img src="https://github.com/rafa-generoso/rafa-generoso/blob/main/img/linkedin2.png?raw=true" width="50px" height="50px"/></a>
+<td><a href="" target="_blank"><img src="https://github.com/rafa-generoso/rafa-generoso/blob/main/img/linkedin.png?raw=true" width="50px" height="50px"/></a>
 </td>
-<td><a href="" target="_blank"><img src="https://github.com/rafa-generoso/rafa-generoso/blob/main/img/discord2.png?raw=true" width="50px" height="50px"/></a>
+<td><a href="" target="_blank"><img src="https://github.com/rafa-generoso/rafa-generoso/blob/main/img/discord.png?raw=true" width="50px" height="50px"/></a>
 </td>
-<td><a href="" target="_blank"><img src="https://github.com/rafa-generoso/rafa-generoso/blob/main/img/calendar2.png?raw=true" width="50px" height="50px"/></a>
+<td><a href="" target="_blank"><img src="https://github.com/rafa-generoso/rafa-generoso/blob/main/img/calendar.png?raw=true" width="50px" height="50px"/></a>
 </td>
 </tr>
 <tr>
