@@ -14,7 +14,7 @@
 <tr>
 <td><a href="" target="_blank"><img src="https://github.com/rafa-generoso/rafa-generoso/blob/main/img/github2.png?raw=true" width="50px" height="50px"/></a>
 </td>
-<td><a href="" target="_blank"><img src="https://github.com/rafa-generoso/rafa-generoso/blob/main/img/gmail2.png?raw=true" width="50px" height="50px"/></a>
+<td><a href="" target="_blank"><img src="https://github.com/rafa-generoso/rafa-generoso/blob/main/img/gmail.png?raw=true" width="50px" height="50px"/></a>
 </td>
 <td><a href="" target="_blank"><img src="https://github.com/rafa-generoso/rafa-generoso/blob/main/img/wpp2.png?raw=true" width="50px" height="50px"/></a>
 </td>
