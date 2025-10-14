@@ -34,14 +34,14 @@
 
 </div>
 <div align="justify">
-<i><b>Olá</b> :wave:, sou o <code>Rafael</code>, tenho 18 anos, moro em BH e sou estudante. Atualmente estou no 1° período de Ciência da Computação na <a href=>PUC Minas</a></i>👨🏻‍💻<br />
+<i><b>Olá</b> :wave:, sou o <code>Rafael</code>, tenho 20 anos, moro em BH e sou estudante. Atualmente estou no 3° período de Engenharia da Computação na <a href=>PUC Minas</a></i>👨🏻‍💻<br />
 </div>
 
 -----
 
 <img height="20" alt="GIF" src="https://github.com/rafa-generoso/rafa-generoso/blob/main/img/soulgem.gif?raw=true"/>Sobre mim:
 <div align="justify">
-Minhas habilidades incluem programação em C e HTML. Destaco-me pela eficiência no desenvolvimento em C. Estou sempre em busca de desafios e oportunidades para aprimorar minhas habilidades. Vamos construir algo incrível juntos?
+Minhas habilidades incluem programação em C e Java. Destaco-me pela eficiência no desenvolvimento em Java. Estou sempre em busca de desafios e oportunidades para aprimorar minhas habilidades.
 </div>
 
 -----
