@@ -30,11 +30,9 @@ Minhas habilidades incluem programação em Java e Python. Destaco-me pela efici
 <div align="justify">
 <p>
 - :necktie: &nbsp; Estudante <br />
-- :man_student: &nbsp; Sou estudante de CC - Ciência da Computação.<br />
-- :briefcase: &nbsp; Tenho interesse em vagas para Dev Jr.<br />
-- :soccer:&nbsp; Atleticano 🐓<br />
+- :man_student: &nbsp; Sou estudante de Engenharia da Computação.<br />
 - :airplane: &nbsp; Adoro viajar e conhecer novos lugares.<br />
-- :video_game: &nbsp; Gosto de jogar Valorant, Lol e Card Games nas horas vagas.<br />
+- :video_game: &nbsp; Gosto de jogar Card Games nas horas vagas.<br />
 - :speech_balloon: &nbsp; Pergunte-me sobre qualquer coisa, adoro ajudar pessoas.<br />
 - :mailbox: &nbsp; Para me encontrar, esse é meu <a href="rafa.gsp100@gmail.com" target="_blank">e-mail</a> pessoal.<br />
 </p>
