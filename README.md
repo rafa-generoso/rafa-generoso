@@ -8,7 +8,7 @@
 
 </div>
 <div align="justify">
-<i><b>Olá</b> :wave:, sou o <code>Rafael</code>, tenho 20 anos, moro em BH e sou estudante. Atualmente estou no 3° período de Engenharia da Computação na <a href=>PUC Minas</a></i>👨🏻‍💻<br />
+<i><b>Olá</b> :wave:, sou o <code>Rafael</code>, tenho 20 anos, moro em BH e sou estudante. Atualmente estou no 4° período de Engenharia da Computação na <a href=>PUC Minas</a></i>👨🏻‍💻<br />
 </div>
 
 -----
