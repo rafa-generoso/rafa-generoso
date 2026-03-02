@@ -1,10 +1,4 @@
------
 
-<div>
-<img align="center" alt="Header" src="https://github.com/rafa-generoso/rafa-generoso/blob/main/img/banner (1).jpg?raw=true"/>
-</div>
-
------
 
 </div>
 <div align="justify">
