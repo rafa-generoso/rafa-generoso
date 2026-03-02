@@ -22,7 +22,7 @@ Minhas habilidades incluem programação em Java e Python. Destaco-me pela efici
 
 <div>
 <div>
-<img align="right" alt="GIF" src="https://github.com/rafa-generoso/rafa-generoso/blob/main/img/dev.gif?raw=true" width="300px" height="300px"/>
+<img align="right" alt="GIF" src="https://github.com/rafa-generoso/rafa-generoso/blob/main/img/dev.gif?raw=true" width="250px" height="250px"/>
 </div>
 
 <img height="20" alt="GIF" src="https://github.com/rafa-generoso/rafa-generoso/blob/main/img/soulgem.gif?raw=true"/>Meus interesses pessoais:
@@ -42,7 +42,7 @@ Minhas habilidades incluem programação em Java e Python. Destaco-me pela efici
 
 <div>
 
-<img height="15" alt="GIF" src="https://github.com/rafa-generoso/rafa-generoso/blob/main/img/skills.gif?raw=true"/>&nbsp;Linguagens e ferramentas:
+<img height="20" alt="GIF" src="https://github.com/rafa-generoso/rafa-generoso/blob/main/img/skills.gif?raw=true"/>&nbsp;Linguagens e ferramentas:
 
 <code><a href="https://www.java.com/pt-BR/" target="_blank"><img width="32" height="32" src="https://github.com/rafa-generoso/rafa-generoso/blob/main/img/java.png"/></a></code>
 &nbsp; 
