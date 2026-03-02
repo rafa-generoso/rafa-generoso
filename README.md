@@ -42,12 +42,12 @@ Minhas habilidades incluem programação em Java e Python. Destaco-me pela efici
 
 <div>
 
-<img height="20" alt="GIF" src="https://github.com/rafa-generoso/rafa-generoso/blob/main/img/skills.gif?raw=true"/>&nbsp;Linguagens e ferramentas:
+<img height="15" alt="GIF" src="https://github.com/rafa-generoso/rafa-generoso/blob/main/img/skills.gif?raw=true"/>&nbsp;Linguagens e ferramentas:
 
-<code><a href="https://www.open-std.org/jtc1/sc22/wg14/" target="_blank"><img width="32" height="32" src="https://github.com/rafa-generoso/rafa-generoso/blob/main/img/python.png?raw=true"/></a></code>
-&nbsp;
 <code><a href="https://www.java.com/pt-BR/" target="_blank"><img width="32" height="32" src="https://github.com/rafa-generoso/rafa-generoso/blob/main/img/java.png"/></a></code>
 &nbsp; 
+<code><a href="https://www.open-std.org/jtc1/sc22/wg14/" target="_blank"><img width="32" height="32" src="https://github.com/rafa-generoso/rafa-generoso/blob/main/img/python.png?raw=true"/></a></code>
+&nbsp;
 
 -----
 
