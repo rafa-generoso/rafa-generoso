@@ -6,32 +6,6 @@
 
 -----
 
-<div align="center">
-<table>
-<tr>
- <td align="center" colspan="11"></td>
-</tr> 
-<tr>
-<td><a href="https://github.com/rafa-generoso" target="_blank"><img src="https://github.com/rafa-generoso/rafa-generoso/blob/main/img/github.png?raw=true" width="50px" height="50px"/></a>
-</td>
-<td><a href="rafa.gsp100@gmail.com" target="_blank"><img src="https://github.com/rafa-generoso/rafa-generoso/blob/main/img/gmail.png?raw=true" width="50px" height="50px"/></a>
-</td>
-<td><a href="" target="_blank"><img src="https://github.com/rafa-generoso/rafa-generoso/blob/main/img/wpp.png?raw=true" width="50px" height="50px"/></a>
-</td>
-<td><a href="https://www.instagram.com/generoso_rafa_/" target="_blank"><img src="https://github.com/rafa-generoso/rafa-generoso/blob/main/img/insta.png?raw=true" width="50px" height="50px"/></a>
-</td>
-<td><a href="" target="_blank"><img src="https://github.com/rafa-generoso/rafa-generoso/blob/main/img/linkedin.png?raw=true" width="50px" height="50px"/></a>
-</td>
-<td><a href="" target="_blank"><img src="https://github.com/rafa-generoso/rafa-generoso/blob/main/img/discord.png?raw=true" width="50px" height="50px"/></a>
-</td>
-<td><a href="" target="_blank"><img src="https://github.com/rafa-generoso/rafa-generoso/blob/main/img/calendar.png?raw=true" width="50px" height="50px"/></a>
-</td>
-</tr>
-<tr>
- <td align="center" colspan="11"></td>
-</tr> 
-</table>
-
 </div>
 <div align="justify">
 <i><b>Olá</b> :wave:, sou o <code>Rafael</code>, tenho 20 anos, moro em BH e sou estudante. Atualmente estou no 3° período de Engenharia da Computação na <a href=>PUC Minas</a></i>👨🏻‍💻<br />
