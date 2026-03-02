@@ -22,7 +22,7 @@ Minhas habilidades incluem programação em Java e Python. Destaco-me pela efici
 
 <div>
 <div>
-<img align="right" alt="GIF" src="https://github.com/rafa-generoso/rafa-generoso/blob/main/img/dev.gif?raw=true" width="250px" height="250px"/>
+<img align="right" alt="GIF" src="https://github.com/rafa-generoso/rafa-generoso/blob/main/img/dev.gif?raw=true" width="240px" height="240px"/>
 </div>
 
 <img height="20" alt="GIF" src="https://github.com/rafa-generoso/rafa-generoso/blob/main/img/soulgem.gif?raw=true"/>Meus interesses pessoais:
