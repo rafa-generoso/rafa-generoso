@@ -34,7 +34,6 @@ Minhas habilidades incluem programação em Java e Python. Destaco-me pela efici
 - :airplane: &nbsp; Adoro viajar e conhecer novos lugares.<br />
 - :video_game: &nbsp; Gosto de jogar Card Games nas horas vagas.<br />
 - :speech_balloon: &nbsp; Pergunte-me sobre qualquer coisa, adoro ajudar pessoas.<br />
-- :mailbox: &nbsp; Para me encontrar, esse é meu <a href="rafa.gsp100@gmail.com" target="_blank">e-mail</a> pessoal.<br />
 </p>
 </div>
 </div>
