@@ -15,7 +15,7 @@
 
 <img height="20" alt="GIF" src="https://github.com/rafa-generoso/rafa-generoso/blob/main/img/soulgem.gif?raw=true"/>Sobre mim:
 <div align="justify">
-Minhas habilidades incluem programação em C e Java. Destaco-me pela eficiência no desenvolvimento em Java. Estou sempre em busca de desafios e oportunidades para aprimorar minhas habilidades.
+Minhas habilidades incluem programação em Java e Python. Destaco-me pela eficiência no desenvolvimento em Java. Estou sempre em busca de desafios e oportunidades para aprimorar minhas habilidades.
 </div>
 
 -----
