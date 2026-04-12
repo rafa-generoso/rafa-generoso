@@ -11,29 +11,6 @@
 <div align="justify">
 Minhas habilidades incluem programação em Java e Python. Destaco-me pela eficiência no desenvolvimento em Java. Estou sempre em busca de desafios e oportunidades para aprimorar minhas habilidades.
 </div>
-
------
-
-<div>
-<div>
-<img align="right" alt="GIF" src="https://github.com/rafa-generoso/rafa-generoso/blob/main/img/dev.gif?raw=true" width="240px" height="240px"/>
-</div>
-
-<img height="20" alt="GIF" src="https://github.com/rafa-generoso/rafa-generoso/blob/main/img/soulgem.gif?raw=true"/>Meus interesses pessoais:
-
-<div align="justify">
-<p>
-- :necktie: &nbsp; Estudante <br />
-- :man_student: &nbsp; Sou estudante de Engenharia da Computação.<br />
-- :airplane: &nbsp; Adoro viajar e conhecer novos lugares.<br />
-- :video_game: &nbsp; Gosto de jogar Card Games nas horas vagas.<br />
-- :speech_balloon: &nbsp; Pergunte-me sobre qualquer coisa, adoro ajudar pessoas.<br />
-</p>
-</div>
-</div>
-
------
-
 <div>
 
 <img height="20" alt="GIF" src="https://github.com/rafa-generoso/rafa-generoso/blob/main/img/skills.gif?raw=true"/>&nbsp;Linguagens e ferramentas:
